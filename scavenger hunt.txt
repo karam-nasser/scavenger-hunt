@@ -1,0 +1,48 @@
+﻿Scavenger Hunt
+
+
+Questions
+Star Wars
+1. What is the birth year of the 2nd person in SWAPI? (Person where ID = 2)        
+-112BBY
+2. What vehicle is listed as belonging to Qui-Gon Jinn?
+-Tribubble bongo
+3. Who is the manufacturer of the vehicle found above?
+        -Otoh Gunga Bongameken Cooperative
+4. For each character in “The Empire Strikes Back” what are their people IDs?
+        -2, 3, 6, 7, 10, 11, 0, 21, 22, 33, 35, 36, 40, 43, 46, 51, 52, 53, 58, 59-78, 82
+5. What films did “starship 21” appear in according to SWAPI?
+        -2, 5 
+6. Only one windy planet is listed as having been in a film… Who is listed as its only resident?
+-Iktotch
+
+
+Marvel
+1. How many “pencillers” worked on Marvel Event 327?
+-1
+2. Search the Marvel API for comics whose title starts with “New” - what is the title of the last result on the resulting page?
+-
+3. Respectively, how many events, stories, and comics did Nightcrawler appear in, according to the Marvel API? (Not including the Nightcrawler Ultimate character entry)
+-
+
+
+URL Parameters
+
+
+2. Yahoo.com: yes
+3. https://www.yahoo.com/news/were-trouble-kerry-warns-countries-145345144.html
+4.https://www.yahoo.com/news/supreme-court-denies-republican-leader-152800567.html
+5.https://www.yahoo.com/finance/m/d517b8b3-d10f-3449-ab2f-12bd4563c10b/nfl%E2%80%99s-odell-beckham-jr-took.html
+w/yahoo it seems the -#s are the main factor for articles they publish themselves. Changing digits, removing the “ / ” or “ - ” re-routes to the default home page. The “m” also represents mobile.
+
+
+Step Three
+1. Answer: Could you try and break the sire with this? Yes just by removing characters
+2. Answer: Are there security risks you can think of? No
+
+
+Step 4
+What benefits can come from testing like this? 
+A much more streamlined process, faster testing, better utilization of code copy.
+What are the risks? 
+Not the same environment as the site itself, different parameters, might be totally different for an end user.
