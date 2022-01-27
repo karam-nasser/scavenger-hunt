@@ -19,11 +19,11 @@ Star Wars
 
 Marvel
 1. How many “pencillers” worked on Marvel Event 327?
--1
+-20
 2. Search the Marvel API for comics whose title starts with “New” - what is the title of the last result on the resulting page?
--
+- "title": "Ordinary New York City cop Frankie", Gunzer now has a new call to duty & not just to uphold the law, but to save ",
 3. Respectively, how many events, stories, and comics did Nightcrawler appear in, according to the Marvel API? (Not including the Nightcrawler Ultimate character entry)
--
+-8
 
 
 URL Parameters
